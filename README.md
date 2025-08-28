@@ -23,3 +23,6 @@ Este proyecto busca reforzar conceptos de diseño web básico y separación de e
 3. Visualizar la página con los estilos aplicados desde **style.css**.  
 
 ---
+## Autora
+- **Nombre:** Valentina Cruz.
+- - **Año:** 2025

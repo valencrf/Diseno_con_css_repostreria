@@ -23,9 +23,3 @@ Este proyecto busca reforzar conceptos de diseño web básico y separación de e
 3. Visualizar la página con los estilos aplicados desde **style.css**.  
 
 ---
-
-## Autor  
-- **Nombre:** Valentina Cruz
-- **Año:** 2025
-- **Año:** 2025  
-- **Materia:** Introducción al Diseño con CSS  
